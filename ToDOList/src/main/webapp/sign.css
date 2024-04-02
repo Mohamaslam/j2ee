@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+body{
+	background-color:#e7d0ea;
+}
+#ld{
+	margin-bottom:10px;
+	padding-left:18px;
+}
+input{
+color:blue;
+cursor:pointer;
+padding-left:16px;
+padding-top:7px;
+
+}
+#sub{
+	margin-left:100px;
+	padding-left:1px;
+}
+.fc{
+	padding:30px;
+	align-items:center;
+	justify-content:center;
+	border-radius:10px;
+	margin: 230px 550px;
+	background-color:#a9adb8;
+}
+.fc:hover{
+	transform:scale(1.1,1.1);
+	transition:0.4s;
+}
